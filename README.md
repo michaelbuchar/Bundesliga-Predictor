@@ -5,4 +5,4 @@ My program predicts the outcome (Win, Draw, Loss) of upcoming Bundesliga (1. Ger
 
 This project includes 2 predictor programs written in Jupyter Notebook, a testing program for Bundesliga games which can be disregarded, deliverable descriptions, a notes file with explanatory notes, and datasets.
 
-### For a full description of the program, please read deliverable 4.
+### For a full description of the project, please read deliverable 4.

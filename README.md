@@ -9,6 +9,5 @@ This project includes 2 predictor programs written in Jupyter Notebook, a testin
 
 ## Current accuracies:
 
-#### Bundesliga: 7/9 (78%)
-#### Premier League: 8/10 (80%)
-
+#### Premier League: 15/19 (79%)
+#### Bundesliga: 10/16 (63%)
